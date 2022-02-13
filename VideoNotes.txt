@@ -1,0 +1,51 @@
+*** 411-6-Create React App Overview ***
+
+TIME  START
+
+React has 2 kinds of components
+    1. Functional Component 
+    2. Class-based Component 
+
+STATE: a memory that KEEPS UP with literally everything we want with our screen
+
+    when you NEED STATE you have to create a CLASS-BASED COMPONENT  
+
+So, create the FUNCTIONAL COMPONENT into a CLASS-BASED COMPONENT  
+
+    NOTE: Class-based components are being phased out of React because they take up more memory, and more processing time 
+
+    They're moving to Functional Components using HOOKS  
+
+You'll usually only have 1 class-based component  
+
+
+Must USE setState()
+
+
+Video 6:
+
+To take in a user's input and store it you must:
+    1. Create a visual place for the user to input data
+    2. Reserve a place to store that data in state 
+    3. Create a method to handle the input and store it
+
+3 fundamentals of components:
+
+    state --> 1. What information gets displayed in the UI.  How does this communicate between methods?
+
+    props -->  information that the component receives 
+
+
+BONUS VIDEO:
+
+*** TIME 35:30 ***
+
+
+
+Style add task button
+Style input field
+
+
+
+
+
